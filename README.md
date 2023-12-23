@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Shawn 👋
 
 <!--
 **ShawnJeffersonWang/ShawnJeffersonWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnJeffersonWang)](https://github.com/ShawnJeffersonWang/github-readme-stats)
+- 🌱 I’m currently learning Java/Go.
+- 😄 Pronouns: Shawn.
+- 📫 How to reach me: xw2002121@gmail.com.
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawnJeffersonWang&count_private=true&show_icons=true&theme=solarized-light) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnJeffersonWang&layout=compact)
+
+![My Skills](https://skillicons.dev/icons?i=java,go,c,cpp,py,linux)
