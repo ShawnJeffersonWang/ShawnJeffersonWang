@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnJeffersonWang&layout=compact)
 
-![My Skills](https://skillicons.dev/icons?i=java,go,c,cpp,py,linux)
+![My Skills](https://skillicons.dev/icons?i=go,java,c,cpp,js,html,css,linux)
