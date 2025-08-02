@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 [![wakatime-stats](https://wakatime.com/badge/user/018bce1c-8cda-4032-b677-c25bc3110808.svg?style=for-the-badge)](https://wakatime.com/@018bce1c-8cda-4032-b677-c25bc3110808)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnJeffersonWang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnJeffersonWang&exclude_repo=skillhub,ssm-learning,netty,student-java-lab,data-structures,ttms,linux-lab-exercises,xv6-2021&layout=compact)
 
-![My Skills](https://skillicons.dev/icons?i=go,c,cpp,java,linux)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,py,pytorch,linux)
