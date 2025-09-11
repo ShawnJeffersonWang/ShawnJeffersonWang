@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ML/DL, LLM and Recommendation Systems.
+- 🌱 I’m currently learning ML/DL/RL, LLM and Recommendation Systems.
 - 😄 Pronouns: Shawn.
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawnJeffersonWang&count_private=true&show_icons=true&theme=solarized-light) -->
